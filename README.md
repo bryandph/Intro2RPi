@@ -1,2 +1,8 @@
 # Intro2RPi
-Introduction to using the Raspberry Pi for the Intro to Networks and their Applications course at the University of Iowa
+## A Guide to the Raspberry Pi
+
+
+For the Intro to Networks (CS:3640) course at The University of Iowa.
+
+Begin by looking at the Intro2RPi presentation.
+
